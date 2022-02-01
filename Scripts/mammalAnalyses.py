@@ -9,7 +9,7 @@ Helping make sense of models' precision
 """
 import pandas as pd
 import os
-os.chdir("C:\\Users\\DBarros\\OneDrive - Biota, Lda\\PRJ078\\Dados")
+os.chdir("")
 
 #Choose your data
 data = pd.read_excel("imageDB_AbrilMaio_Efficient.xlsx")
