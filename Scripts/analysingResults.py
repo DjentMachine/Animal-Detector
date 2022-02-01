@@ -9,7 +9,7 @@ import os
 import pandas as pd
 
 #Loading file
-os.chdir("C:\\Users\\DBarros\\OneDrive - Biota, Lda\\PRJ078\\Dados")
+os.chdir("")
 imageDB = pd.read_excel("imageDB_AbrilMaio.xlsx")
 
 #Getting false positives, negatives and overall model accuracy    
