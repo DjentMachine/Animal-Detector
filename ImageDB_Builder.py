@@ -10,9 +10,9 @@ import csv
 import pandas as pd
 import os
 
-os.chdir("C:\\Users\\DBarros\\OneDrive - Biota, Lda\\PRJ078\\Dados")
-path = "OneDrive - Biota, Lda\\Armadilhagem\\2021_04Abril-05Maio\\"
-data = "dados_camera_AbrilMaio.xlsx"
+os.chdir("")
+path = ""
+data = ""
 
 #CHANGE THESE FOR EVERY MODEL RUN
 #newFile = "imageDB_AbrilMaio_Xception.xlsx"
